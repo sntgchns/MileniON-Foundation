@@ -27,7 +27,7 @@ section img
 	min-height:97vh;
 	position:relative;
 }
-@media only screen and (max-width: 1366px)
+@media only screen and (max-width: 600px)
 {
 	section img
 	{
