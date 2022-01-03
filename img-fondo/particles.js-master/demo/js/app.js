@@ -23,7 +23,7 @@ particlesJS('particles-js',
       }
     },
     "color": {
-      "value": "#DE359A"
+      "value": "#ffffff"
     },
     "shape": {
       "type": "image",
@@ -35,7 +35,7 @@ particlesJS('particles-js',
         "nb_sides": 5
       },
       "image": {
-        "src": "img-fondo/img/icon.png",
+        "src": "img-fondo/img/logo2.png",
         "width": 100,
         "height": 100
       }
@@ -51,7 +51,7 @@ particlesJS('particles-js',
       }
     },
     "size": {
-      "value": 5,
+      "value": 7,
       "random": true,
       "anim": {
         "enable": true,
@@ -63,7 +63,7 @@ particlesJS('particles-js',
     "line_linked": {
       "enable": true,
       "distance": 150,
-      "color": "#DE359A",
+      "color": "#ffffff",
       "opacity": 0.4,
       "width": 1
     },
